@@ -1,7 +1,11 @@
 # Hiking Trails Data Analysis
 This data analysis project was chosen as a personal project to add to my data science portfolio. In it, I combined my passion for hiking with my love for data analysis, by exploring a dataset consisting of the top 50 hiking trails ranked by Alltrails.com.
 
-View the entire analysis [here](https://github.com/SoManyDistractions/Alltrails-Top-50-Hikes/blob/main/Alltrails%20Top%2050%20Global%20Hikes%20-%20Data%20Analysis%20Project.ipynb). 
+### View the entire analysis [here](https://github.com/SoManyDistractions/Alltrails-Top-50-Hikes/blob/main/Alltrails%20Top%2050%20Global%20Hikes%20-%20Data%20Analysis%20Project.ipynb). 
+
+#### Top 50 list (as of July 13, 2023): https://www.alltrails.com/directory/trails/A/1
+
+![Top 50 Hiking List](https://github.com/SoManyDistractions/Alltrails-Top-50-Hikes/blob/main/Top%2050%20list.png?raw=true)
 
 ## Dataset Collection
 To obtain the dataset, I manually collected data from AllTrails.com since they do not provide official datasets or an API. I carefully went through the top 50 hiking trails listed on the website and extracted specific pieces of information from each trail. The collected information was stored in a CSV file, which included the following columns: 
